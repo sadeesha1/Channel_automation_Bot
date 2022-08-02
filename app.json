@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/StarkBotsIndustries/ChannelBot",
+  "repository": "https://github.com/sadeesha1/Channel_automation_Bot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
